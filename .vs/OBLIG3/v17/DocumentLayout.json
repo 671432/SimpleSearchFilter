@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|c:\\users\\oma\\source\\repos\\oblig3\\oblig3\\valgtkurs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\valgtkurs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\crud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\crud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\crud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\crud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|C:\\Users\\OMA\\source\\repos\\OBLIG3\\oblig3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAE2D9-F22F-4A37-8D70-B10D9D959772}|OBLIG3\\OBLIG3.csproj|solutionrelative:oblig3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValgtKurs.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\ValgtKurs.xaml.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\ValgtKurs.xaml.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\ValgtKurs.xaml.cs",
+              "RelativeToolTip": "OBLIG3\\ValgtKurs.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:12:05.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OBLIG3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:06:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OBLIG3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\MainWindow.xaml",
+              "RelativeToolTip": "OBLIG3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T18:06:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Course.cs",
+              "RelativeToolTip": "OBLIG3\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:57:17.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Student.cs",
+              "RelativeToolTip": "OBLIG3\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:55:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUD.xaml",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\CRUD.xaml",
+              "RelativeDocumentMoniker": "OBLIG3\\CRUD.xaml",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\CRUD.xaml",
+              "RelativeToolTip": "OBLIG3\\CRUD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T01:48:51.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\CRUD.xaml.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\CRUD.xaml.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\CRUD.xaml.cs",
+              "RelativeToolTip": "OBLIG3\\CRUD.xaml.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAqwGAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:48:50.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "OBLIG3\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\OMA\\source\\repos\\OBLIG3\\OBLIG3\\Models\\Grade.cs",
+              "RelativeToolTip": "OBLIG3\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:39:03.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
